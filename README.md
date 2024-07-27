@@ -12,7 +12,8 @@ BINARY EMBEDDING - it is a  technique used to reduce the precision of a number t
 
 sign = 1, x >= 0  and 0, x < 0
 
-exmaple : x= 0.3
+example : x= 0.3
+
 1 =sign(x)
 
 RERANKING WITH BINARY EMBEDDINGS - these is basically a reranking step where the candidate documents that are retrieved by binary embeddings are reranked.
